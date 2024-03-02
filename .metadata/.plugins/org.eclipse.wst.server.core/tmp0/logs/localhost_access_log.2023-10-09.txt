@@ -1,0 +1,17 @@
+127.0.0.1 - - [09/Oct/2023:00:23:49 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:00:23:52 +0530] "GET /servlet-jdbc/movie.jsp HTTP/1.1" 200 574
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:00:23:52 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:00:25:37 +0530] "GET /servlet-jdbc/movie.jsp HTTP/1.1" 200 594
+127.0.0.1 - - [09/Oct/2023:00:37:19 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:00:37:21 +0530] "GET /servlet-jdbc/movie.jsp HTTP/1.1" 200 591
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:00:38:05 +0530] "GET /servlet-jdbc/mov?n=MS+DHONI&h=sushank&a=on HTTP/1.1" 200 -
+127.0.0.1 - - [09/Oct/2023:09:09:10 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:09:09:12 +0530] "GET /servlet-jdbc/movie.jsp HTTP/1.1" 200 621
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:09:09:28 +0530] "GET /servlet-jdbc/mov?n=MS+DHONI&h=sushank&t=a HTTP/1.1" 200 -
+127.0.0.1 - - [09/Oct/2023:09:13:39 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:09:13:40 +0530] "GET /servlet-jdbc/movie.jsp HTTP/1.1" 200 621
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:09:13:53 +0530] "GET /servlet-jdbc/mov?n=MS+DHONI&h=sushank&t=a HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:09:16:59 +0530] "GET /servlet-jdbc/movie.jsp HTTP/1.1" 200 657
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:09:17:12 +0530] "GET /servlet-jdbc/mov?n=MS+DHONI&h=sushank&t=a HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:09:18:32 +0530] "GET /servlet-jdbc/movie.jsp HTTP/1.1" 200 666
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:09:18:45 +0530] "GET /servlet-jdbc/mov?n=MS+DHONI&l=tel&h=sushank&t=a HTTP/1.1" 200 -

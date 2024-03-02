@@ -1,0 +1,50 @@
+
+Oct 05, 2023 13:18:59.70 NEW SESSION
+Oct 05, 2023 13:18:59.73 [12916:1568:1005/131859.697:ERROR:device_event_log_impl.cc(225)] [13:18:59.696] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 05, 2023 13:18:59.75 [12916:1476:1005/131859.758:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 05, 2023 13:19:00.36 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 05, 2023 13:19:28.01 [12916:1476:1005/131928.018:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 05, 2023 13:20:16.63 [12916:1476:1005/132016.630:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 05, 2023 13:21:42.64 [12916:1476:1005/132142.641:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 05, 2023 13:24:53.55 [12916:1476:1005/132453.553:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 05, 2023 13:30:53.22 [12916:1476:1005/133053.225:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 05, 2023 13:40:53.23 [12916:1476:1005/134053.237:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Oct 05, 2023 21:12:52.31 NEW SESSION
+Oct 05, 2023 21:12:52.32 [7016:11456:1005/211252.308:ERROR:device_event_log_impl.cc(225)] [21:12:52.308] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 05, 2023 21:12:52.39 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 05, 2023 21:28:45.61 [7016:1916:1005/212845.614:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 05, 2023 21:29:48.28 [7016:1916:1005/212948.280:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 05, 2023 21:29:49.35 [7016:1916:1005/212949.359:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -331
+Oct 05, 2023 21:34:11.05 [7016:11456:1005/213411.051:ERROR:device_event_log_impl.cc(225)] [21:34:11.050] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Oct 06, 2023 18:57:42.80 NEW SESSION
+Oct 06, 2023 18:57:42.84 [11688:7832:1006/185742.797:ERROR:device_event_log_impl.cc(225)] [18:57:42.796] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 06, 2023 18:57:43.57 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 07, 2023 13:16:50.26 NEW SESSION
+Oct 07, 2023 13:16:50.30 [6272:13540:1007/131650.260:ERROR:device_event_log_impl.cc(225)] [13:16:50.260] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 07, 2023 13:16:50.31 [6272:2156:1007/131650.315:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 13:16:50.86 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 07, 2023 13:17:17.13 [6272:2156:1007/131717.130:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 13:18:07.79 [6272:2156:1007/131807.793:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 13:20:03.43 [6272:2156:1007/132003.433:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 13:23:13.64 [6272:2156:1007/132313.648:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 13:31:09.80 [6272:2156:1007/133109.804:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 13:41:09.82 [6272:2156:1007/134109.820:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 13:44:36.91 [8032:17056:1007/134436.912:ERROR:device_event_log_impl.cc(225)] [13:44:36.911] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 07, 2023 13:44:36.94 [8032:3308:1007/134436.938:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 13:44:37.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 07, 2023 13:45:04.11 [8032:3308:1007/134504.116:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 13:45:54.58 [8032:3308:1007/134554.580:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 13:47:39.01 [8032:3308:1007/134739.013:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 13:50:47.26 [8032:3308:1007/135047.268:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 13:56:54.01 [8032:3308:1007/135654.016:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Oct 09, 2023 24:23:54.25 NEW SESSION
+Oct 09, 2023 24:23:54.29 [920:7652:1009/002354.254:ERROR:device_event_log_impl.cc(225)] [00:23:54.253] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 09, 2023 24:23:55.28 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 09, 2023 24:41:16.48 [920:17100:1009/004116.483:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 09, 2023 09:03:57.48 [920:17100:1009/090357.485:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Oct 09, 2023 09:03:58.03 [920:7652:1009/090358.033:ERROR:device_event_log_impl.cc(225)] [09:03:57.823] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 09, 2023 09:03:58.03 [920:7652:1009/090358.035:ERROR:device_event_log_impl.cc(225)] [09:03:58.009] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
